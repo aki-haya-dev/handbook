@@ -9,9 +9,6 @@ main
 - リリース用
 - 直接Push禁止
 
-develop
-- 開発用
-
 feature/*
 - 機能開発
 
