@@ -23,5 +23,7 @@ fix/*
 ## Commit Message
 
 feat: ログイン画面追加
+
 fix: NullPointerException修正
+
 docs: README更新
